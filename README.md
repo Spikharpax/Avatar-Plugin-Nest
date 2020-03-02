@@ -2,7 +2,7 @@
 
 Ce plugin est un add-on pour le framework [Avatar](https://github.com/Spikharpax/Avatar-Serveur-3.0).
 
-<p align="center"><img src="assets/image/logo_Nest.jpg" width="100%" height="100%"/></p>
+<p align="center"><img src="assets/image/logo_Nest.jpg" width="20%" height="20%"/></p>
 
 ***
 ## ★ A savoir
@@ -12,7 +12,7 @@ Ce plugin "spécial" Nest permet en plus:
 - D'ajouter ou de modifier les règles de gestion du thermostat
 - D'ajouter des phrases de validation des actions par A.V.A.T.A.R
 
-Avec ce plugin, vous disposez aussi d'un exemple très simple pour vous permettre de gérer des règles associées d'un appareil connecté avec Google assistant.
+Avec ce plugin, vous disposez aussi d'un exemple très simple pour vous permettre de gérer les règles associées de vos appareils connectés avec Google assistant.
 
 
 ***
