@@ -1,0 +1,4 @@
+Gestion du thermostat Google Nest
+
+Ce petit plugin vous permet de contrôler les règles vocales de gestion du thermostat ainsi que les phrases de retour de validation de l'action par A.V.A.T.A.R
+  

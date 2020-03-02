@@ -1,0 +1,12 @@
+{
+	"modules": {
+		"Nest": {
+			"version": "1.0",
+			"name": "Nest",
+			"tts": "voilà|tout de suite|c'est fait",
+			"rules": {
+				"setTemp": ["(set|regulate|lower|raise|decrease|rise) * temperature","temperature rise"]
+			}
+		}
+	}
+}
